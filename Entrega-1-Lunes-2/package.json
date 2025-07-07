@@ -1,0 +1,22 @@
+{
+  "name": "projectback1",
+  "version": "1.0.0",
+  "main": "ProductManager.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.2",
+    "socket.io": "^4.8.1"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
